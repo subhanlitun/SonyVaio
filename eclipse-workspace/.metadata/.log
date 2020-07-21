@@ -1,0 +1,178 @@
+!SESSION 2020-06-21 10:43:12.463 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=14.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2020-06-21 10:43:31.687
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-21 10:43:31.687
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2358443e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@25e796fe,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-21 10:44:09.402
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Subh'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-22 19:46:01.295 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=14.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-06-22 19:46:45.531
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2020-06-22 19:46:53.413
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-22 19:46:53.414
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1626bddf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@29532e91,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-22 19:47:13.283
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Subh'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-06-22 21:47:52.186 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=14.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data file:/C:/Users/Subh/eclipse-workspace/ -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2020-06-22 21:48:09.301
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-06-22 21:48:09.301
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4cb82b09,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@49665f92,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-06-22 21:48:32.927
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Subh'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2020-06-22 21:49:14.513
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Subh\eclipse\java-2020-06\eclipse\configuration\org.eclipse.osgi\453\0\.cp\lib\testng-remote.jar C:\Users\Subh\eclipse-workspace\TestNGTutorial\bin C:\Users\Subh\.p2\pool\plugins\org.testng_7.2.0.r202003151902.jar C:\Users\Subh\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar C:\Users\Subh\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Subh\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 58540 -protocol json -d C:\Users\Subh\eclipse-workspace\TestNGTutorial\test-output C:\Users\Subh\eclipse-workspace\TestNGTutorial\testng3.xml
+java -ea -classpath C:\Users\Subh\eclipse\java-2020-06\eclipse\configuration\org.eclipse.osgi\453\0\.cp\lib\testng-remote.jar:C:\Users\Subh\eclipse-workspace\TestNGTutorial\bin:C:\Users\Subh\.p2\pool\plugins\org.testng_7.2.0.r202003151902.jar:C:\Users\Subh\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar:C:\Users\Subh\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Subh\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 58540 -protocol json -d C:\Users\Subh\eclipse-workspace\TestNGTutorial\test-output C:\Users\Subh\eclipse-workspace\TestNGTutorial\testng3.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-06-22 21:49:34.133
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Subh\eclipse\java-2020-06\eclipse\configuration\org.eclipse.osgi\453\0\.cp\lib\testng-remote.jar C:\Users\Subh\eclipse-workspace\TestNGTutorial\bin C:\Users\Subh\.p2\pool\plugins\org.testng_7.2.0.r202003151902.jar C:\Users\Subh\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar C:\Users\Subh\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Subh\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 58542 -protocol json -d C:\Users\Subh\eclipse-workspace\TestNGTutorial\test-output C:\Users\Subh\eclipse-workspace\TestNGTutorial\testng2.xml
+java -ea -classpath C:\Users\Subh\eclipse\java-2020-06\eclipse\configuration\org.eclipse.osgi\453\0\.cp\lib\testng-remote.jar:C:\Users\Subh\eclipse-workspace\TestNGTutorial\bin:C:\Users\Subh\.p2\pool\plugins\org.testng_7.2.0.r202003151902.jar:C:\Users\Subh\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar:C:\Users\Subh\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Subh\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 58542 -protocol json -d C:\Users\Subh\eclipse-workspace\TestNGTutorial\test-output C:\Users\Subh\eclipse-workspace\TestNGTutorial\testng2.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-06-22 21:51:44.303
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Subh\eclipse\java-2020-06\eclipse\configuration\org.eclipse.osgi\453\0\.cp\lib\testng-remote.jar C:\Users\Subh\eclipse-workspace\TestNGTutorial\bin C:\Users\Subh\.p2\pool\plugins\org.testng_7.2.0.r202003151902.jar C:\Users\Subh\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar C:\Users\Subh\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Subh\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 58618 -protocol json -d C:\Users\Subh\eclipse-workspace\TestNGTutorial\test-output C:\Users\Subh\eclipse-workspace\TestNGTutorial\testng3.xml
+java -ea -classpath C:\Users\Subh\eclipse\java-2020-06\eclipse\configuration\org.eclipse.osgi\453\0\.cp\lib\testng-remote.jar:C:\Users\Subh\eclipse-workspace\TestNGTutorial\bin:C:\Users\Subh\.p2\pool\plugins\org.testng_7.2.0.r202003151902.jar:C:\Users\Subh\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar:C:\Users\Subh\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Subh\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 58618 -protocol json -d C:\Users\Subh\eclipse-workspace\TestNGTutorial\test-output C:\Users\Subh\eclipse-workspace\TestNGTutorial\testng3.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-06-22 21:54:48.526
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Subh\eclipse\java-2020-06\eclipse\configuration\org.eclipse.osgi\453\0\.cp\lib\testng-remote.jar C:\Users\Subh\eclipse-workspace\TestNGTutorial\bin C:\Users\Subh\.p2\pool\plugins\org.testng_7.2.0.r202003151902.jar C:\Users\Subh\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar C:\Users\Subh\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Subh\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 58727 -protocol json -d C:\Users\Subh\eclipse-workspace\TestNGTutorial\test-output C:\Users\Subh\eclipse-workspace\TestNGTutorial\testng.xml
+java -ea -classpath C:\Users\Subh\eclipse\java-2020-06\eclipse\configuration\org.eclipse.osgi\453\0\.cp\lib\testng-remote.jar:C:\Users\Subh\eclipse-workspace\TestNGTutorial\bin:C:\Users\Subh\.p2\pool\plugins\org.testng_7.2.0.r202003151902.jar:C:\Users\Subh\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar:C:\Users\Subh\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Subh\.p2\pool\plugins\org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 58727 -protocol json -d C:\Users\Subh\eclipse-workspace\TestNGTutorial\test-output C:\Users\Subh\eclipse-workspace\TestNGTutorial\testng.xml
+!SESSION 2020-07-05 18:34:14.914 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=14.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-07-05 18:36:35.407
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2020-07-05 18:36:41.580
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-07-05 18:36:41.580
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@24f90aff,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7252bdb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-05 18:36:59.738
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Subh'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
